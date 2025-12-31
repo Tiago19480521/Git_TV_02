@@ -1,4 +1,5 @@
 
-document.getElementById('par_test').innerHTML = 'Hi, I am here, learning GIT!'
-
-document.getElementById('h1_test').innerHTML = 'This is larger text (h1).'
+document.getElementById('par_title').innerHTML = 'GIT tests'
+document.getElementById('par_init').innerHTML = 'Testing GIT commands.'
+document.getElementById('par_test1').innerHTML = 'This is small text.'
+document.getElementById('par_test2').innerHTML = 'This is large text.'
