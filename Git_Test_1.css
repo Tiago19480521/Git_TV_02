@@ -4,12 +4,12 @@ body {
 
 #par_title {    
     color: rgb(22, 22, 135);
-    font-size: 30px;
+    font-size: 40px;
 }
 
 #par_init {    
     color: rgb(11, 114, 30);
-    font-size: 20px;
+    font-size: 25px;
 }
 
 #par_test1 {
@@ -19,5 +19,5 @@ body {
 
 #par_test2 {
     color: rgb(111, 34, 85);
-    font-size: 15px;
+    font-size: 20px;
 }
